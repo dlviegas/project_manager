@@ -1,0 +1,4 @@
+google-generativeai
+python-decouple
+fastapi[standard]
+jinja2
